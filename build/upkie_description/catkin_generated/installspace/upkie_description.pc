@@ -1,0 +1,8 @@
+prefix=/home/ywy/pino_ws/install
+
+Name: upkie_description
+Description: Description of upkie_description
+Version: 1.4.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
